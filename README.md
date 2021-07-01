@@ -9,6 +9,7 @@
   "projects": {
     "fluorium": "new modern java obfuscator. https://discord.gg/UvEGcZWnXj"
   }
+}
 
 ```
 
