@@ -4,7 +4,7 @@
   "skills": {
     "java": "middle",
     "java-asm": "junior"
-  }
+  },
   
   "projects": {
     "fluorium": "new modern java obfuscator. https://discord.gg/UvEGcZWnXj"
