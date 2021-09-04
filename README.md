@@ -1,5 +1,3 @@
-kotlin, java, c++
-
-working on fluorium | discord.gg/UvEGcZWnXj
+A little kid interested in JVM languages and C++.
 
 ![](https://komarev.com/ghpvc/?username=notyoursleep)
