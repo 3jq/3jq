@@ -1,7 +1,6 @@
 ## hobbyist programmer/reverser/researcher
 
-currently working at jvmprotect (a native dll written in c/c++ for preventing hooking/using any exploits written for jvm)
-you also can invite me in some project and i might help :p 
+working on random projects, for getting any help contact me
 
 ### contacts: <br>
 yoursleep#1834 - discord, reply <24h (having don't disturb because i can't handle pings lol)<br>
