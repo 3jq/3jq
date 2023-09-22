@@ -1,6 +1,7 @@
-## hobbyist programmer/reverser/researcher
+## hobbyist programmer/reverser
 
-working on random projects, for getting any help contact me
+working on [simProxy](https://github.com/simProxy) mostly but ask me for help if you wanna<br>
+[plutosolutions](https://github.com/plutosolutions) member (biggest achievement in life)
 
 ### contacts: <br>
 linktr.ee/sleepooo
