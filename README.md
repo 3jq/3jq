@@ -1,9 +1,12 @@
-## hobbyist programmer/reverser
+# Arthur Varisov
+Python full-cycle & AI automation developer. Building bots and systems that survive production.<br>
 
-[plutosolutions](https://github.com/plutosolutions) member (biggest achievement in life)
+## Profile Overview
+Experiments, prototypes, production bots. Focus: Telegram funnels, CRM, analytics. Real results over buzzwords.
 
-### contacts:
-linktr.ee/sleepooo
-replying within 24h
+## Featured Demos
+**[Gorilla Bot](https://github.com/3jq/gorilla-bot-demo)**<br>
+Telegram funnel bot with custom CRM & analytics. <br>26k+ users, 25.6% reg→deposit, >$15k revenue.
 
-![](https://komarev.com/ghpvc/?username=notyoursleep&color=7ea889)
+## Open for Work
+Freelance collaborations: Telegram bots, AI automations, integrations. Reach out via [Telegram](https://t.me/arthurisunavailable) (GMT+3, Saint-Petersburg).
