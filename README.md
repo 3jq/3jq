@@ -4,8 +4,8 @@ Python full-cycle & AI automation developer. Building bots and systems that surv
 ## Profile Overview
 Experiments, prototypes, production bots. Focus: Telegram funnels, CRM, analytics. Real results over buzzwords.
 
-## Featured Demos
-**[Gorilla Bot](https://github.com/3jq/gorilla-bot-demo)**<br>
+## Featured
+**[Gorilla Bot](https://t.me/GorillaCashBot)**<br>
 Telegram funnel bot with custom CRM & analytics. <br>26k+ users, 25.6% reg→deposit, >$15k revenue.
 
 ## Open for Work
